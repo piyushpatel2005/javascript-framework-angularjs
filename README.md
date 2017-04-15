@@ -24,3 +24,7 @@ You need Node JS and npm in order to work with this project.
 
 4. That's it. You're done. Explore the project.
 
+5. To serve the app locally, you need to install all devDependencies using ```npm install``` command. This will install all grunt plugins and other dependencies.
+
+6. Now, you can type ```grunt serve``` to serve your application.
+
